@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm AnkiT Jaiswal</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Ankit Jaiswal</h1>
+<h3 align="center">A passionate developer cum thinker from India</h3>
 
-- 🔭 I’m currently working on [Mock-Test_Platfrom](,dsvmhb)
+- 🔭 I’m currently working on [Mock-Test_Platfrom](https://github.com/jankit18/Mock-Test_Platform)
 
 - 🌱 I’m currently learning **Javascript, Computer Vison and Deep Learning Projects**
 
-- 👯 I’m looking to collaborate on [Computer Vison and Deep Learning Projects](acms nn)
+- 👯 I’m looking to collaborate on [Computer Vison and Deep Learning Projects]()
 
-- 🤝 I’m looking for help with [DSA_cheatsheet](nmcs n)
+- 🤝 I’m looking for help with [DSA_Cheatsheet](https://github.com/jankit18/DSA_Cheatsheet)
 
 - 👨‍💻 All of my projects are available at [https://github.com/jankit18](https://github.com/jankit18)
 
