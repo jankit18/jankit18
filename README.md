@@ -11,13 +11,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/jankit18](https://github.com/jankit18)
 
-- 📝 I regulary write articles on [NO where](NO where)
-
 - 💬 Ask me about **Computer Vison and Deep Learning Stuffs**
 
 - 📫 How to reach me **jankit360@gmail.com**
 
-- ⚡ Fun fact **Lazy Techie**
+- ⚡ Fun fact **I am a Lazy Techie**
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
