@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ankit Jaiswal</h1>
-<h3 align="center">A passionate developer cum thinker from India</h3>
+<h3 align="center">A passionate developer/thinker from India</h3>
 
 - 🔭 I’m currently working on [Mock-Test_Platfrom](https://github.com/jankit18/Mock-Test_Platform)
 
