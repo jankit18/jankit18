@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Javascript, Computer Vison and Deep Learning Projects**
 
-- 👯 I’m looking to collaborate on [Computer Vison and Deep Learning Projects]()
-
 - 🤝 I’m looking for help with [DSA_Cheatsheet](https://github.com/jankit18/DSA_Cheatsheet)
 
 - 👨‍💻 All of my projects are available at [https://github.com/jankit18](https://github.com/jankit18)
