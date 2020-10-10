@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Mock-Test_Platfrom](https://github.com/jankit18/Mock-Test_Platform)
 
-- 🌱 I’m currently learning **Javascript, Computer Vison and Deep Learning Projects**
+- 🌱 I’m currently learning **Javascript, Computer Vison and Deep Learning**
 
 - 🤝 I’m looking for help with [DSA_Cheatsheet](https://github.com/jankit18/DSA_Cheatsheet)
 
