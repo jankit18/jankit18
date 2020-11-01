@@ -9,8 +9,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/jankit18](https://github.com/jankit18)
 
-- 💬 Ask me about **Computer Vison and Deep Learning Stuffs**
-
 - 📫 How to reach me **jankit360@gmail.com**
 
 - ⚡ Fun fact **I am a Lazy Techie**
