@@ -22,5 +22,9 @@
 <a href="https://www.leetcode.com/janit360" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="janit360" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/ankitjaiswal6" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="ankitjaiswal6" height="30" width="40" /></a>
 </p>
-
+<p align="left">
+<h3 align="left">My Deployments:</h3>
+- **https://gate-easy-nit.herokuapp.com/**
+- **https://xmeme-ankit.herokuapp.com/ **
+</p>
 
