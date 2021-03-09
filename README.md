@@ -25,7 +25,7 @@
 <p align="left">
 <h3 align="left">My Deployments:</h3>
 - **https://gate-easy-nit.herokuapp.com/**
-- 
+
 - **https://xmeme-ankit.herokuapp.com/ **
 </p>
 
